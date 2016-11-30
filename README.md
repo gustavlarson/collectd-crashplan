@@ -5,8 +5,8 @@ Collects information (total file count, total file size, percentage completed) f
 Implemented as a bash script.
 
 ## Requirements
-*bash
-*[GNU bc](https://www.gnu.org/software/bc/) or some other POSIX-compatible version of bc.
+* bash
+* [GNU bc](https://www.gnu.org/software/bc/) or some other POSIX-compatible version of bc.
 
 ## Installation
 Install the script in any location.
