@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 HOSTNAME="${COLLECTD_HOSTNAME:-hostname}"
 INTERVAL="${COLLECTD_INTERVAL:-30}"
