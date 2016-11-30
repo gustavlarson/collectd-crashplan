@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
+#
+# Collectd plugin for collecting Crashplan statistics.
+#
+# Author: Gustav Larson
+# URL: https://github.com/gustavlarson/collectd-notify
+
 
 HOSTNAME="${COLLECTD_HOSTNAME:-hostname}"
 INTERVAL="${COLLECTD_INTERVAL:-30}"
